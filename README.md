@@ -107,7 +107,7 @@ $ zphisher
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull htrtech/zphisher
+    docker pull gg2774/zphisher
     ```
   - **GHCR** : 
     ```
@@ -123,7 +123,7 @@ $ zphisher
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm -ti gg2774/zphisher
   ```
   - Remember to mount the `auth` directory.
 
@@ -155,7 +155,3 @@ $ zphisher
 
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
-##
