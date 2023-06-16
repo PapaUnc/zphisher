@@ -20,6 +20,7 @@
 </p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+<b>Copyright© GEPENG</b>
 
 ##
 
