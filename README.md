@@ -1,9 +1,6 @@
 <!-- Zphisher -->
 
 <p align="center">
-  
-
-<p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
@@ -20,7 +17,6 @@
 </p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
-<b>Copyright© GEPENG</b>
 
 ##
 
@@ -54,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/gg2774/zphisher.git
   ```
 
 - Now go to cloned directory and run `Gepenged7Fold` -
@@ -107,7 +103,7 @@ $ zphisher
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull gg2774/zphisher
+    docker pull htr-tech/zphisher
     ```
   - **GHCR** : 
     ```
@@ -123,7 +119,7 @@ $ zphisher
 - Temporary Container
 
   ```
-  docker run --rm -ti gg2774/zphisher
+  docker run --rm -ti htrtech/zphisher
   ```
   - Remember to mount the `auth` directory.
 
@@ -153,5 +149,11 @@ $ zphisher
 
 ##
 
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
+### Find Me on:
+<p align="left">
+  <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+</p>
+
+
+### *Copyright© GEPENG*:
