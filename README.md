@@ -9,14 +9,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-GEPENG-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-PapaUnc-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPapaUnc%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+
+![coollogo_com-133532142](https://github.com/PapaUnc/zphisher/assets/135232724/a4137cbe-0042-4814-9f4f-836e12ce1d23)
+
 
 ##
 
@@ -50,13 +53,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/gg2774/zphisher.git
+  git clone --depth=1 https://github.com/PapaUnc/zphisher.git
   ```
 
-- Now go to cloned directory and run `Gepenged7Fold` -
+- Now go to cloned directory and run `PapaUnc` -
   ```
   $ cd zphisher
-  $ bash Gepenged7Fold
+  $ bash PapaUnc
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
@@ -76,14 +79,14 @@ $ zphisher
 ##
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/PapaUnc/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 ##
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
+- Download `.deb` files from the [**Latest Release**](https://github.com/PapaUnc/zphisher/releases/latest)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -103,23 +106,23 @@ $ zphisher
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull htr-tech/zphisher
+    docker pull PapaUnc/zphisher
     ```
   - **GHCR** : 
     ```
-    docker pull ghcr.io/htr-tech/zphisher:latest
+    docker pull ghcr.io/PapaUnc/zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
+- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/PapaUnc/zphisher/master/run-docker.sh)
 
   ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
+  $ curl -LO https://raw.githubusercontent.com/PapaUnc/zphisher/master/run-docker.sh
   $ bash run-docker.sh
   ```
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm -ti PapaUnc/zphisher
   ```
   - Remember to mount the `auth` directory.
 
@@ -152,8 +155,8 @@ $ zphisher
 ### Find Me on:
 <p align="left">
   <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/PapaUnc" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 
-### *Copyright© GEPENG*:
+### *Copyright© PapaUnc*
